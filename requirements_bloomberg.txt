@@ -1,0 +1,12 @@
+textual>=0.47.0
+yfinance>=0.2.28
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+requests>=2.31.0
+feedparser>=6.0.10
+ta>=0.10.2
+plotext>=5.2.8
+rich>=13.5.0
+python-dateutil>=2.8.2
+pytz>=2023.3
